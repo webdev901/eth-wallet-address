@@ -1,0 +1,26 @@
+{
+  "name": "eth-wallet-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insideoutzombie/eth-wallet-gen.git"
+  }, 
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/insideoutzombie/eth-wallet-gen/issues"
+  },
+  "homepage": "https://github.com/insideoutzombie/eth-wallet-gen#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongodb": "^3.1.4",
+    "mongoose": "^5.2.14",
+    "web3": "^1.0.0-beta.36"
+  }
+}
